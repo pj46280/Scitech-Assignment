@@ -68,7 +68,7 @@ Create a virtual environment for this setup to install necessary dependencies
 * Installing packages
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 # Run this code
