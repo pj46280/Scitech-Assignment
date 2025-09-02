@@ -9,7 +9,7 @@ This repository contains code demonstrating typical IoT data-pipeline. It contai
 # Introduction
 This readme provides clear instructions on how to set up the environment and test the code on user machine.
 
-## Installations and setup
+## Installations and Environment Setup
 You machine needs to have a mqtt broker in order to test this code, first step is to install one, for this we are installing [mosquitto]('https://mosquitto.org/') mqtt broker.
 
 * For Linux machines with Snap support 
@@ -41,23 +41,23 @@ Create a virtual environment for this setup to install necessary dependencies
 
 * For Linux/Mac OS
     Create virtual environment
-```
-python3 -m venv venv
-```
+    ```
+    python3 -m venv venv
+    ```
 
     Activate virtual environment
-```
-source venv/bin/activate
-```
+    ```
+    source venv/bin/activate
+    ```
 
 * For Windows 
 
     Create virtual environment
-```
-python -m venv venv
-```
+    ```
+    python -m venv venv
+    ```
 
     Activate virtual environment
-```
-venv\Scripts\activate
-```
+    ```
+    venv\Scripts\activate
+    ```
