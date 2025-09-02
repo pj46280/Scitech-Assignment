@@ -14,6 +14,7 @@ logging.basicConfig(
     ]
 )
 
+# BROKER = "test.mosquitto.org"
 BROKER = "localhost"  
 PORT = 1883
 TOPIC = "scitech/sensors"
