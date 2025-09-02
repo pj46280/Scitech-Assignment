@@ -64,6 +64,13 @@ Create a virtual environment for this setup to install necessary dependencies
     venv\Scripts\activate
     ```
 
+
+* Installing packages
+
+```
+pip install requirements.txt
+```
+
 # Run this code
 After successfull completion of the [Environment setup](#installations-and-environment-setup) and [Python setup](#python-setup) follow these steps - 
 
